@@ -41,8 +41,8 @@
 >JEJUPASS 웹 사이트를 모티브하여 만든 항공권 구메 사이트 (팀 프로젝트)  
 >개발 기간: 2022.8.1 ~ 2020.8.12  
 > 
->기술 스택:  
->React / Javascript / Styled-component
+>기술 스택(수료 후 Redux-toolKit로 리팩토링):  
+>React / Redux-toolKit / Javascript / Styled-component
 >
 >라이브러리:
 >datePicker, react modal, react spinner
