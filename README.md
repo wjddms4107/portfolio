@@ -37,7 +37,7 @@
 
 ---
 
-### 2. [2차 프로젝트](https://github.com/wjddms4107/FREEPASS-frontend)
+### 2. [2차 프로젝트](https://github.com/wjddms4107/FREEPASS_jeongeun)
 >JEJUPASS 웹 사이트를 모티브하여 만든 항공권 구메 사이트 (팀 프로젝트)  
 >개발 기간: 2022.8.1 ~ 2020.8.12  
 > 
@@ -47,7 +47,7 @@
 >라이브러리:
 >datePicker, react modal, react spinner
 >
->[프로젝트 상세 설명](https://github.com/wjddms4107/FREEPASS-frontend) 참고
+>[프로젝트 상세 설명](https://github.com/wjddms4107/FREEPASS_jeongeun) 참고
 
 ---
 
