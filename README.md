@@ -59,6 +59,6 @@
 >React / Javascript / Tailwind CSS / Mobx
 >
 >라이브러리:
-> Recharts, MUI  
+> Recharts, MUI, google map
 >
 >[프로젝트 상세 설명](https://github.com/wjddms4107/project_earth) 참고
