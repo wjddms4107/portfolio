@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: `노정은`을 소개합니다.
-- 다양한 활동으로 증명되는 협업에 능한 밝은 성격과 높은 적응력
+- 대외활동, 인턴 등 다양한 활동으로 증명되는 협업에 능한 밝은 성격과 높은 적응력
 - 개발자로서의 큰 장점인 무서운 집중력과 흡수력, 책임감
 - 3개월 동안 세 개의 프로젝트 완성
 - 스타트업 개발팀에서 근무한 경험
@@ -20,14 +20,14 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [1차 프로젝트](https://github.com/wjddms4107/magazine-K-frontend)
+### 1. [1차 프로젝트](https://github.com/wjddms4107/MagazineK_jeongeun)
 >Magazine B 웹 사이트를 모티브하여 만든 커머스 사이트 (팀 프로젝트)  
 >개발 기간: 2022.7.18 ~ 2022.7.29 
 >
 >기술 스택:  
 >React / Javascript / SASS
 >
->[프로젝트 상세 설명](https://github.com/wjddms4107/magazine-K-frontend) 참고
+>[프로젝트 상세 설명](https://github.com/wjddms4107/MagazineK_jeongeun) 참고
 
 ---
 
