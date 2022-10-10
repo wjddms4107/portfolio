@@ -56,6 +56,8 @@
 >
 >[프로젝트 상세 설명](https://github.com/wjddms4107/project_earth) 참고
 
+---
+
 ### 4. [토이프로젝트 - ToDoList](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit)
 >TypeScript와 Redux-Toolkit에 익숙해지기 위한 투두리스트 (개인 프로젝트)
 >  
@@ -64,6 +66,8 @@
 >
 >
 >[프로젝트 상세 설명](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit) 참고
+
+---
 
 ### 5. [토이프로젝트 - 가위바위보](https://github.com/wjddms4107/rock_scissors_paper_TS)
 >TypeScript와 더 나은 state 관리를 위한 가위바위보 게임 만들기 (개인 프로젝트)
