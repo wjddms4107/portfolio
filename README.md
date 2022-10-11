@@ -24,7 +24,7 @@
 >개발 기간: 2022.7.18 ~ 2022.7.29 
 >
 >기술 스택:  
->React / Javascript / SASS
+>React / Javascript / SASS / RESTful API
 >
 >[프로젝트 상세 설명](https://github.com/wjddms4107/MagazineK_jeongeun) 참고
 
@@ -35,7 +35,7 @@
 >개발 기간: 2022.8.1 ~ 2020.8.12  
 > 
 >기술 스택(수료 후 Redux-toolKit로 리팩토링):  
->React / Redux-toolKit / Javascript / Styled-component
+>React / Redux-toolKit / Javascript / Styled-component / RESTful API
 >
 >라이브러리:
 >datePicker, react modal, react spinner
@@ -49,7 +49,7 @@
 >개발 기간: 2022.8.16 ~ 2022.9.7 
 >  
 >기술 스택:  
->React / Javascript / Tailwind CSS / Mobx
+>React / Javascript / Tailwind CSS / Mobx / RESTful API
 >
 >라이브러리:
 > Recharts, MUI, google map
