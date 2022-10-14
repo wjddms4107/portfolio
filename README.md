@@ -55,7 +55,7 @@
 ---
 
 ### 3. [project_earth](https://github.com/wjddms4107/project_earth)
->실시간 CCTV 영상을 활용한 공정 모니터링 시스템  (기업협업 프로젝트)  
+>실시간 CCTV 영상을 활용한 공정 모니터링 시스템 (기업협업 프로젝트)  
 >개발 기간: 2022.8.16 ~ 2022.9.7 
 >  
 >기술 스택:  
@@ -80,7 +80,7 @@
 ---
 
 ### 5. [토이프로젝트 - 가위바위보](https://github.com/wjddms4107/rock_scissors_paper_TS)
->TypeScript, React, Styled-Component로 가위바위보 게임 구현(개인 프로젝트)
+>TypeScript, React, Styled-Component로 가위바위보 게임 구현 (개인 프로젝트)
 >
 >기술 스택:  
 >React / TypeScript / Styled-Component
