@@ -24,7 +24,10 @@
 
 ## :pushpin: Projects
 ### 1. [1차 프로젝트](https://github.com/wjddms4107/MagazineK_jeongeun)
->Magazine B 웹 사이트를 모티브하여 만든 커머스 사이트 (팀 프로젝트)  
+>전 세계의 균형 잡힌 브랜드를 한 호에 하나씩 소개하는 광고 없는 월간지 'Magazine K' (팀 프로젝트)
+>
+>'회원가입, 로그인 -> 장바구니에 담은 후 결제 -> 배송받은 후 리뷰 작성'으로 커머스 사이트 FLOW를 지니고 있습니다.
+>
 >개발 기간: 2022.7.18 ~ 2022.7.29 
 >
 >기술 스택:  
@@ -35,7 +38,10 @@
 ---
 
 ### 2. [2차 프로젝트](https://github.com/wjddms4107/FREEPASS_jeongeun)
->JEJUPASS 웹 사이트를 모티브하여 만든 항공권 구메 사이트 (팀 프로젝트)  
+>항공권 사이트 "FREEPASS' (팀 프로젝트)  
+>
+>'카카오 로그인 -> 항공권 조회 후 검색 -> 항공권 선택 후 예약'으로 항공권 사이트의 FLOW를 갖추고 있습니다.
+>
 >개발 기간: 2022.8.1 ~ 2020.8.12  
 > 
 >기술 스택(수료 후 Redux-toolKit로 리팩토링):  
@@ -63,7 +69,7 @@
 ---
 
 ### 4. [토이프로젝트 - ToDoList](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit)
->TypeScript와 Redux-Toolkit에 익숙해지기 위한 투두리스트 (개인 프로젝트)
+>TypeScript, React, Reduxtoolkit를 이용하여 구현한 todolist (개인 프로젝트)
 >  
 >기술 스택:  
 >React / TypeScript / Redux-Toolkit/ Tailwind CSS
@@ -74,8 +80,8 @@
 ---
 
 ### 5. [토이프로젝트 - 가위바위보](https://github.com/wjddms4107/rock_scissors_paper_TS)
->TypeScript와 더 나은 state 관리를 위한 가위바위보 게임 만들기 (개인 프로젝트)
->  
+>TypeScript, React, Styled-Component로 가위바위보 게임 구현(개인 프로젝트)
+>
 >기술 스택:  
 >React / TypeScript / Styled-Component
 >
