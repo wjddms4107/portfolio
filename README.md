@@ -6,10 +6,10 @@
 </br>
 
 ## :pushpin: `노정은`을 소개합니다.
-- "인생은 단 한 번뿐, 대충 살아서는 행복할 수 없어!"
-- 반복되는 삶에 안주하지 않으며 도전을 두려워하지 않습니다.
-- 시행착오를 겪어도 앞으로 나아가는 긍정적이고 발전적인 힘이 있습니다.
-- 다양한 활동으로 증명되는 협업에 능한 밝은 성격과 적응력을 지녔습니다.
+- "인생은 단 한 번뿐, 대충 살아서는 행복할 수 없어!" 반복되는 삶에 안주하지 않으며 도전을 두려워하지 않습니다.
+- 시행착오를 겪어도 앞으로 나아가는 긍정적이고 발전적인 힘이 있습니다. 이에 수료 후 TypeScript, redux, firebase를 학습하여 프로젝트 리팩토링과 개인프로젝트를 진행하였습니다.
+- 성공적으로 마무리 된 세 개의 프로젝트와 다양한 활동으로 증명되는 협업에 능한 밝은 성격과 적응력을 지녔습니다.
+- 제 생각과 경험을 정리하고 공유하는 것을 좋아하여 주기적으로 블로깅을 합니다.
 - 스타트업 개발팀에서 근무하며 개발, 비개발 인력들과 협업한 경험이 있습니다.
 - 최종적으로 저라는 사람을 보고 같이 일하는 모습을 상상하게 되는 개발자가 되고싶습니다.
 
@@ -68,14 +68,14 @@
 
 ---
 
-### 4. [토이프로젝트 - ToDoList](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit)
->TypeScript, React, Reduxtoolkit를 이용하여 구현한 todolist (개인 프로젝트)
->  
+### 4. [토이프로젝트 - 헤어샵 실시간 예약 시스템](https://github.com/wjddms4107/one-people-hairshop_TS)
+>firebase로 헤어샵 실시간 예약 시스템 구현 (개인 프로젝트)
+>
 >기술 스택:  
->React / TypeScript / Redux-Toolkit/ Tailwind CSS
+>firebase/ React / TypeScript / Redux-Toolkit / Styled-Component
 >
 >
->[프로젝트 상세 설명](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit) 참고
+>[프로젝트 상세 설명](https://github.com/wjddms4107/one-people-hairshop_TS) 참고
 
 ---
 
@@ -87,3 +87,22 @@
 >
 >
 >[프로젝트 상세 설명](https://github.com/wjddms4107/rock_scissors_paper_TS) 참고
+
+---
+
+### 6. [토이프로젝트 - ToDoList](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit)
+>TypeScript, React, Reduxtoolkit를 이용하여 구현한 todolist (개인 프로젝트)
+>  
+>기술 스택:  
+>React / TypeScript / Redux-Toolkit/ Tailwind CSS
+>
+>
+>[프로젝트 상세 설명](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit) 참고
+
+---
+
+
+
+
+
+
