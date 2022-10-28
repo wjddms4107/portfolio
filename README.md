@@ -56,7 +56,7 @@
 
 ### 3. [project_earth](https://github.com/wjddms4107/project_earth)
 >실시간 CCTV 영상을 활용한 공정 모니터링 시스템 (기업협업 프로젝트)  
->개발 기간: 2022.8.16 ~ 2022.9.7 
+>개발 기간: 2022.8.16 ~ 2022.9.7
 >  
 >기술 스택:  
 >React / Javascript / Tailwind CSS / Mobx / RESTful API
@@ -70,6 +70,7 @@
 
 ### 4. [토이프로젝트 - 헤어샵 실시간 예약 시스템](https://github.com/wjddms4107/one-people-hairshop_TS)
 >firebase로 헤어샵 실시간 예약 시스템 구현 (개인 프로젝트)
+>개발 기간: 2022.10.21 ~ 2022.10.28 
 >
 >기술 스택:  
 >firebase/ React / TypeScript / Redux-Toolkit / Styled-Component
@@ -81,6 +82,7 @@
 
 ### 5. [토이프로젝트 - 가위바위보](https://github.com/wjddms4107/rock_scissors_paper_TS)
 >TypeScript, React, Styled-Component로 가위바위보 게임 구현 (개인 프로젝트)
+>개발 기간: 2022.10.08 ~ 2022.10.10
 >
 >기술 스택:  
 >React / TypeScript / Styled-Component
@@ -92,6 +94,7 @@
 
 ### 6. [토이프로젝트 - ToDoList](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit)
 >TypeScript, React, Reduxtoolkit를 이용하여 구현한 todolist (개인 프로젝트)
+>개발 기간: 2022.09.24 ~ 2022.09.30
 >  
 >기술 스택:  
 >React / TypeScript / Redux-Toolkit/ Tailwind CSS
