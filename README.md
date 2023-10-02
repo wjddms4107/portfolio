@@ -5,12 +5,13 @@
 </br>
 
 ## :pushpin: `노정은`을 소개합니다.
-웹개발, 특히 React에 관심을 많이 가지고 있는 프론트엔드 개발자입니다. 
-React와 TypeScript가 주 기술이며, nextJS도 가능합니다.
-반복적인 UI는 컴포넌트화하고 함수는 모듈화하여 더 나은 코드를 위해 노력합니다.
+안녕하세요. 1년차 프론트엔드 개발자 노정은 입니다. </br>
 
-또한 의도와 컨셉을 정확히 이해하여 웹 인터페이스로 표현하기 위해 끊임없이 소통하기에 
-"의도를 잘 파악하고 센스있게 구현해주시네요!"라는 평가를 받고있는 프론트엔드 개발자입니다.
+웹 프로덕트를 더 아름답고 효율적으로 전달하는 방법을 알아가는 것에 관심이 많으며  </br>
+이를 통해 생산성이 높아지고 사용자 경험이 개선될 때마다 큰 행복감을 느낍니다. </br>
+
+프로덕트에서 사용자와 가장 가까이에서 만나는 프론트엔드 개발자로서,  </br>
+안정감있게 서비스를 전달하여 비즈니스 가치를 높이는 개발자로 성장하고 싶습니다. </br>
 
 </br>
 
@@ -47,19 +48,6 @@ React와 TypeScript가 주 기술이며, nextJS도 가능합니다.
 
 ---
 
-### [토이프로젝트 - 가위바위보](https://github.com/wjddms4107/rock_scissors_paper_TS)
->TypeScript, React, Styled-Component로 가위바위보 게임 구현 (개인 프로젝트) </br>
->개발 기간: 2022.10.08 ~ 2022.10.10
->
->기술 스택:  
->React / TypeScript / Styled-Component
->
->
->[프로젝트 상세 설명](https://github.com/wjddms4107/rock_scissors_paper_TS) 참고
-
----
-
-
 ### [project_earth](https://github.com/wjddms4107/project_earth)
 >실시간 CCTV 영상을 활용한 공정 모니터링 시스템 (기업협업 프로젝트)  
 >개발 기간: 2022.8.16 ~ 2022.9.7
@@ -71,18 +59,6 @@ React와 TypeScript가 주 기술이며, nextJS도 가능합니다.
 > Recharts, MUI, google map
 >
 >[프로젝트 상세 설명](https://github.com/wjddms4107/project_earth) 참고
-
----
-
-### [토이프로젝트 - ToDoList](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit)
->TypeScript, React, Reduxtoolkit를 이용하여 구현한 todolist (개인 프로젝트) </br>
->개발 기간: 2022.09.24 ~ 2022.09.30
->  
->기술 스택:  
->React / TypeScript / Redux-Toolkit/ Tailwind CSS
->
->
->[프로젝트 상세 설명](https://github.com/wjddms4107/ToDoList_TS-ReduxToolkit) 참고
 
 ---
 
@@ -102,8 +78,6 @@ React와 TypeScript가 주 기술이며, nextJS도 가능합니다.
 >[프로젝트 상세 설명](https://github.com/wjddms4107/FREEPASS_jeongeun) 참고
 
 ---
-
-
 
 ### [1차 프로젝트](https://github.com/wjddms4107/MagazineK_jeongeun)
 >전 세계의 균형 잡힌 브랜드를 한 호에 하나씩 소개하는 광고 없는 월간지 'Magazine K' (팀 프로젝트)
